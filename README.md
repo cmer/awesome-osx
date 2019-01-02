@@ -174,9 +174,9 @@ A curated list of awesome applications, softwares, tools and shiny things I love
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-[OSS Icon]: https://raw.githubusercontent.com/cmer/awesome-osx/master/media/oss.svg
-[Freeware Icon]: https://raw.githubusercontent.com/cmer/awesome-osx/master/media/free.svg
+[OSS Icon]: media/oss.svg?sanitize=true
+[Freeware Icon]: media/free.svg?sanitize=true
 
 ## Credits
 
-Layout and some app descriptions taken from [ICHAIT](https://github.com/iCHAIT/awesome-macOS/blob/master/README.md)
+Layout and some app descriptions taken from [ICHAIT](https://github.com/iCHAIT/awesome-macOS/blob/master/README.md).
