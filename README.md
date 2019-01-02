@@ -174,8 +174,8 @@ A curated list of awesome applications, softwares, tools and shiny things I love
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-[OSS Icon]: https://cdn.rawgit.com/cmer/awesome-osx/master/media/oss.svg
-[Freeware Icon]: https://cdn.rawgit.com/cmer/awesome-osx/master/media/free.svg
+[OSS Icon]: https://raw.githubusercontent.com/cmer/awesome-osx/master/media/oss.svg
+[Freeware Icon]: https://raw.githubusercontent.com/cmer/awesome-osx/master/media/free.svg
 
 ## Credits
 
